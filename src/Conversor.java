@@ -1,8 +1,6 @@
 import javax.swing.*;
 import java.util.Arrays;
 
-import static javax.swing.JOptionPane.QUESTION_MESSAGE;
-
 public class Conversor {
     public Conversor() {
         String[] opciones = {"Conversor de Monedas", "Conversor de Temperaturas"};
